@@ -1,2 +1,3 @@
 # WebsiteCheck
-检查网站新闻是否更新，并在更新时自动发送邮件给所设定的邮箱
+Check the update of given website, send an e-mail to the specific address.
+This project is a simple attempt for web crawle. It would be helpful if anyone wanna have a quick start on *spider*. 
